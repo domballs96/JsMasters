@@ -1,0 +1,10 @@
+.R {
+  color: red;
+}
+.G {
+  color: green;
+}
+.B {
+  color: blue;
+}
+/* you can use for having 3 premade classes with a diffrent color promptey if useing JSmasters_button just do nbt("somthing_lol", "R/G/B") /*
